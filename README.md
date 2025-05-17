@@ -12,6 +12,16 @@ Process Management: View process relationships (parent/child) and status
 
 ![ss](https://github.com/user-attachments/assets/c268cec8-2df8-4a1d-9c6c-9d38939d022e)
 
+### Requirements
+
+* Windows operating system
+* Python 3.6+
+* Dependencies:
+  * PyQt5: GUI framework
+  * psutil: Process and system information
+  * scapy: Packet capture and analysis
+  * Pillow: Image processing for icons
+
 Install required dependencies:
 ```bash
 pip install PyQt5 psutil scapy pillow
