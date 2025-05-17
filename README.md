@@ -10,6 +10,7 @@ Save Options: Export captured packets as PCAP (for use with Wireshark) or CSV
 Process Management: View process relationships (parent/child) and status
 
 
+![ss](https://github.com/user-attachments/assets/c268cec8-2df8-4a1d-9c6c-9d38939d022e)
 
 Install required dependencies:
 ```bash
