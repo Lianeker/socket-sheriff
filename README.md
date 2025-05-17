@@ -2,13 +2,6 @@
 A PyQt5-based application for monitoring network connections and capturing packets on Windows. This tool displays active network connections with process information and allows packet sniffing for selected processes by filtering based on the ports that process is using. Supports saving captured packets in PCAP or CSV format.
 Features
 
-Process Monitoring: View all processes with active network connections
-Connection Tracking: See detailed connection history for each process
-Packet Sniffing: Capture and inspect network packets for selected processes
-Port-Based Filtering: Automatically filters packets based on the ports used by the selected process
-Save Options: Export captured packets as PCAP (for use with Wireshark) or CSV
-Process Management: View process relationships (parent/child) and status
-
 
 ![ss](https://github.com/user-attachments/assets/c268cec8-2df8-4a1d-9c6c-9d38939d022e)
 
