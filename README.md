@@ -1,4 +1,4 @@
-#SocketSheriff
+# SocketSheriff
 A PyQt5-based application for monitoring network connections and capturing packets on Windows. This tool displays active network connections with process information and allows packet sniffing for selected processes by filtering based on the ports that process is using. Supports saving captured packets in PCAP or CSV format.
 Features
 
@@ -22,7 +22,7 @@ python socket-sheriff.py
 ```
 
 
-###Limitations
+### Limitations
 
 Port-Based Filtering: The packet capture uses port filtering which has limitations:
 
